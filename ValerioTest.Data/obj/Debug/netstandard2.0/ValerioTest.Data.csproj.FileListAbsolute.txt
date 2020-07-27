@@ -1,0 +1,22 @@
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Data\bin\Debug\netstandard2.0\ValerioTest.Models.dll
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Data\obj\Debug\netstandard2.0\ValerioTest.Data.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Data\obj\Debug\netstandard2.0\ValerioTest.Data.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Data\obj\Debug\netstandard2.0\ValerioTest.Data.AssemblyInfo.cs
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Data\bin\Debug\netstandard2.0\ValerioTest.Data.deps.json
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Data\bin\Debug\netstandard2.0\ValerioTest.Data.dll
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Data\bin\Debug\netstandard2.0\ValerioTest.Data.pdb
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Data\bin\Debug\netstandard2.0\ValerioTest.Models.pdb
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Data\obj\Debug\netstandard2.0\ValerioTest.Data.csproj.CopyComplete
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Data\obj\Debug\netstandard2.0\ValerioTest.Data.dll
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Data\obj\Debug\netstandard2.0\ValerioTest.Data.pdb
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Data\bin\Debug\netstandard2.0\ValerioTest.Data.deps.json
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Data\bin\Debug\netstandard2.0\ValerioTest.Data.dll
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Data\bin\Debug\netstandard2.0\ValerioTest.Data.pdb
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Data\bin\Debug\netstandard2.0\ValerioTest.Models.dll
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Data\bin\Debug\netstandard2.0\ValerioTest.Models.pdb
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Data\obj\Debug\netstandard2.0\ValerioTest.Data.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Data\obj\Debug\netstandard2.0\ValerioTest.Data.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Data\obj\Debug\netstandard2.0\ValerioTest.Data.AssemblyInfo.cs
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Data\obj\Debug\netstandard2.0\ValerioTest.Data.csproj.CopyComplete
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Data\obj\Debug\netstandard2.0\ValerioTest.Data.dll
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Data\obj\Debug\netstandard2.0\ValerioTest.Data.pdb

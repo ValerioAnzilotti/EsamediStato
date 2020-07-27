@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Models\bin\Debug\netstandard2.0\ValerioTest.Models.deps.json
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Models\bin\Debug\netstandard2.0\ValerioTest.Models.dll
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Models\obj\Debug\netstandard2.0\ValerioTest.Models.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Models\obj\Debug\netstandard2.0\ValerioTest.Models.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Models\obj\Debug\netstandard2.0\ValerioTest.Models.AssemblyInfo.cs
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Models\bin\Debug\netstandard2.0\ValerioTest.Models.pdb
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Models\obj\Debug\netstandard2.0\ValerioTest.Models.dll
+C:\Users\PC\Desktop\TEST FINALE materale\ValerioTest.Web\ValerioTest.Models\obj\Debug\netstandard2.0\ValerioTest.Models.pdb
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Models\bin\Debug\netstandard2.0\ValerioTest.Models.deps.json
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Models\bin\Debug\netstandard2.0\ValerioTest.Models.dll
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Models\bin\Debug\netstandard2.0\ValerioTest.Models.pdb
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Models\obj\Debug\netstandard2.0\ValerioTest.Models.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Models\obj\Debug\netstandard2.0\ValerioTest.Models.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Models\obj\Debug\netstandard2.0\ValerioTest.Models.AssemblyInfo.cs
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Models\obj\Debug\netstandard2.0\ValerioTest.Models.dll
+C:\Users\PC\Desktop\IoT Esame di stato\ValerioTest.Web\ValerioTest.Models\obj\Debug\netstandard2.0\ValerioTest.Models.pdb

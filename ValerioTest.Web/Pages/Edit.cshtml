@@ -1,0 +1,50 @@
+﻿@page
+@model ValerioTest.Web.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Modifica del prodotto @Model.Modell.Aula</h1>
+
+
+@if(!string.IsNullOrWhiteSpace(Model.ErrorMessage))
+{
+    <div role="alert" class="alert alert-danger">
+        @Model.ErrorMessage
+    </div>
+}
+
+
+<form method="post">
+    <div class="text-danger" asp-validation-summary="All"></div>
+
+    <input asp-for="Modell.IdPiano" type="hidden" />
+
+    <div class="form-group">
+        <label asp-for="Modell.Aula"></label>
+        <input asp-for="Modell.Aula" class="form-control" />
+        <span asp-validation-for="Modell.Aula" class="text-danger" />
+    </div>
+
+
+
+    <button type="submit" class="btn btn-success">Salva</button>
+    <a class="btn btn-secondary" asp-page="/Products/Index">Annulla</a>
+</form>
+
+<hr />
+
+
+<form method="post" asp-page-handler="DeleteProduct">
+    <button class="btn btn-danger" type="submit">Elimina</button>
+
+</form>
+
+
+
+
+@section Scripts { 
+
+    <partial name="_ValidationScriptsPartial" />
+}
+
